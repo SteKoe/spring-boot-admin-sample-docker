@@ -1,0 +1,7 @@
+{
+  "name": "spring-boot-admin-docker-image-builder",
+  "type": "module",
+  "devDependencies": {
+    "commander": "^12.1.0"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "sbaVersion": "3.3.6",
+    "javaVersion": "17",
+    "springBootVersion": "3.3.6",
+    "springCloudVersion": "2023.0.4"
+  },
+  {
+    "sbaVersion": "3.4.0",
+    "javaVersion": "21",
+    "springBootVersion": "3.4.0",
+    "springCloudVersion": "2024.0.0"
+  },
+  {
+    "sbaVersion": "3.4.1",
+    "javaVersion": "21",
+    "springBootVersion": "3.4.0",
+    "springCloudVersion": "2024.0.0"
+  }
+]
