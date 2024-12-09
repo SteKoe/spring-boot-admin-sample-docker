@@ -1,15 +1,27 @@
 [
   {
-    "sbaVersion": "3.3.5",
+    "sbaVersion": "3.3.3",
     "javaVersion": "17",
-    "springBootVersion": "3.3.6",
+    "springBootVersion": "3.3.3",
+    "springCloudVersion": "2023.0.3"
+  },
+  {
+    "sbaVersion": "3.3.4",
+    "javaVersion": "17",
+    "springBootVersion": "3.3.4",
     "springCloudVersion": "2023.0.3"
   },
   {
     "sbaVersion": "3.3.5",
     "javaVersion": "17",
     "springBootVersion": "3.3.5",
-    "springCloudVersion": "2023.0.4"
+    "springCloudVersion": "2023.0.3"
+  },
+  {
+    "sbaVersion": "3.3.6",
+    "javaVersion": "17",
+    "springBootVersion": "3.3.6",
+    "springCloudVersion": "2023.0.3"
   },
   {
     "sbaVersion": "3.4.0",
