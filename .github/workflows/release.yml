@@ -20,7 +20,7 @@ jobs:
         with:
           distribution: 'adopt'
           java-version: '23'
-          cache: 'gradle'
+          cache: 'maven'
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
